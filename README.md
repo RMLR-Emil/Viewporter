@@ -5,6 +5,9 @@ Original is released with a Public Domain license.
 A continued/functional version of the Peter SZTANOJEV 'Viewporter' World of Warcraft (WoW) addon hosted on curseforge.
 Original author: Peter SZTANOJEV <sztanpet@gmail.com>
 
+The CTmod has been used as a source for fixes of the mid-fight cinematic resizing issue.
+CTmod: https://www.curseforge.com/wow/addons/ctmod
+
 This addon is updated to work with the 9.0 version of World of Warcraft (Shadowlands).
 
 I am passively maintaining this addon, to get rid of errors and issues, when a new patch is released.
