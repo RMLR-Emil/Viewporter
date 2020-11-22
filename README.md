@@ -15,3 +15,7 @@ I am not actively testing on PTR, so any patches that breaks features, won't be 
 
 This include a fix for the mid-fight cinematic resizing issues.
 The Cinematics doesn't scale correctly, but mid-combat cinematics no longer reset the viewport size.
+
+
+Known Issues:
+- Mid-combat Cinematic looks squished. [Not planned to fix as of November 2020]
